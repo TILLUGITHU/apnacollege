@@ -1,3 +1,4 @@
 # apnacollege
-this my repo
-author-thilak
+this my repo.
+<br>
+Author - thilak
